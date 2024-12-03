@@ -19,10 +19,10 @@ Class: 23DTV1<br>
 | Build report in Latex                                | <center>X</center> | <center>X</center> | <center> </center> |
 | [Report] Write Abstract                              | <center>X</center> | <center>X</center> | <center> </center> |
 | [Report] Design and analysis oscillator                             | <center> </center> | <center>X</center> | <center> </center> |
-| [Report] Design and analysis active filter                            | <center>X</center> | <center> </center> | <center> </center> |
-| [Report] Design and analysiss integrator                             | <center>X</center> | <center> </center> | <center> </center> |
+| [Report] Design and analysis active filter                            | <center>X</center> | <center> </center> | <center>X</center> |
+| [Report] Design and analysis integrator                             | <center>X</center> | <center> </center> | <center> </center> |
 | Simulate oscillator                           | <center> </center> | <center>X</center> | <center> </center> |
-| Simulate active filter                             | <center>X</center> | <center> </center> | <center> </center> |
+| Simulate active filter                             | <center>X</center> | <center> </center> | <center>X</center> |
 | Simulate integrator                            | <center>X</center> | <center> </center> | <center> </center> |
 | Presentation file                            | <center>X</center> | <center> </center> | <center>X</center> |
 | Summarize and edit report                            | <center>X</center> | <center> </center> | <center> </center> |

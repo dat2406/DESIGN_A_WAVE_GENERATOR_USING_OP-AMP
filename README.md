@@ -1,5 +1,5 @@
 # ANALOG ELECTRONIC
-<h2>FINAL PROJECT</h2>
+<h2>TEAM PROJECT</h2>
 Topic:  DESIGN A WAVE GENERATOR USING OP-AMP<br>
 Teacher: Nguyen Thi Thien Trang <br>
 Class: 23DTV1<br>

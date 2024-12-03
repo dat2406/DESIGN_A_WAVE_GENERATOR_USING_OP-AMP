@@ -9,10 +9,10 @@ Class: 23DTV1<br>
 
 ## Team members
 | STT | MSSV | Full name | Role | Email |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 23200074 | Nguyen Thanh Dat | Leader | 23200074@student.hcmus.edu.vn
-| 2 | 23200069 | Ho Quang Dai | Member |  23200069@student.hcmus.edu.vn
-| 3 | 23200073 | Nguyen Phuoc Dat | Member | 23200073@student.hcmus.edu.vn
+| --- | --- | --- | --- | --- |
+| 1 | 23200074 | Nguyen Thanh Dat | Leader | 23200074@student.hcmus.edu.vn |
+| 2 | 23200069 | Ho Quang Dai | Member |  23200069@student.hcmus.edu.vn |
+| 3 | 23200073 | Nguyen Phuoc Dat | Member | 23200073@student.hcmus.edu.vn |
 
 ## Task Assignment and Progress
 

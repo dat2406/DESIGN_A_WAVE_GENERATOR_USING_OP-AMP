@@ -27,6 +27,7 @@ Class: 23DTV1<br>
 | Presentation file                                    | <center>X</center> | <center> </center> | <center>X</center> |
 | Presentation                                         | <center>X</center> | <center>X</center> | <center>X</center> |
 | Summarize and edit report                            | <center>X</center> | <center> </center> | <center> </center> |
+| Attendance                                           | <center>FULL</center> | <center>FULL</center> | <center>FULL</center> |
 | Complete                                             | <center>**100%**</center> | <center>**100%**</center> | <center>**100%**</center>   |
 
 
